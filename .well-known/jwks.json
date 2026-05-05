@@ -1,0 +1,12 @@
+{
+    "keys":  [
+                 {
+                     "kid":  "myapp-key-1",
+                     "n":  "wd1i0Cg5jvGMWEpWXLWKfeCghEVzqcPEm4-S2BkQQB5hR1Clx04O-W6rtnNtsMbl9pob2-w86BDeZlQ1X7dwbn_xQTxXyeFaCHndfZi5VUbSaHovnIQCFFF75nu9czMi2-Ow1M8i7O7jtKs4wEqr9avqqAPd-DTdbpzFq94Ujs4ole_q-1Ku-G1uf-rkx4iOXeE3sTONTzzsdO6Md_1uUV9HBon5CixRyjPbxrcz3Q5GmL3Y-BM8TddsLY-UBA4oerPuWfFh5qhgg7PaqQhHV4yNKax8jLzr8MNTSe_NUez8vqAbpHGn4dpsxfu1w5vVm1WPlo7isCGKJvV05POsdQ",
+                     "alg":  "RS384",
+                     "e":  "AQAB",
+                     "kty":  "RSA",
+                     "use":  "sig"
+                 }
+             ]
+}
