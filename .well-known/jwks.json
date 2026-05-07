@@ -4,7 +4,7 @@
                      "kty":  "RSA",
                      "n":  "v3KiI_n2CGjp63zZWEF-LUb40Hug4um0bkHWEuHn7sI-Vxa2rbHDnV1cc1ETs7jO0x3cTGE2gQGk4_HU8_SSFlfou_cycYwnjCcaAKkueOtAYKzOjt-NWMenXbfg-ju-8B1JCQMWTxDMeTjsPc8nH1QYHbhF3Dhg2gXVWf3vsZSUrrMt0U5kmhXOqkEMCQnNBBGlwXWjZqy-JW-mcLqSnzirdSyPf3PT6sPUdXyUZHV3w21sSJEQlnVgp-5Siz1mW1ScbNYjVy6K0HF6-Zqjp0tdmfuo4OLffPwl3KCmLz3h9K7O0UPdptwFcXijF6VbkV-p0i8CvBkZryizzmR7-Q",
                      "e":  "AQAB",
-                     "kid":  "myapp-key-1",
+                     "kid":  "myapp-key-2",
                      "alg":  "RS384",
                      "use":  "sig"
                  }
