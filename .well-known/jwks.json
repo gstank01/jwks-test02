@@ -5,8 +5,8 @@
                     "e": "AQAB",
                     "use": "sig",
                     "kid": "myapp-key-3",
-                    "alg": "RS384",
-                    "n": "u8jKS8RGW4SrDLYgae56KBEZEXjORkKQxrB6ZYtQ2t4A2N3_C4Msk2Ou0C2KASY1DUdu2bBiYPcmsbhcyyqDoFf7OKvg5qf4RuZk89BElkIMLxd5HJkMqbTfgJK3biL69wciC_bS554DxgXNXnb08o3xkOuXcTXrt6QByYeyX2HSc79o15xYtoeHdmC8__eoKZ-uL9TCTgOL9Mjmr_ObAt5CPNduwSMY3y9WjORDASrsTT0pyBBh-x3DWJa_EX_U67CDTRN4KjLi5PMjG4J5b9mpmjGoeQCXOtE_XV6BzjgIjKe1lHCEfYNw3ve0xMDUxudfJBca_TUhRMu6-dFl7w"
+                    "alg": "RS512",
+                    "n": "o9ztCvJy89w_jIUByoBGqILsNCNCbd7na_WXmvnTdtcc4OuPo7qVMKcYpWceSuJ31SB4PRLXdSxw1UMt1_wdLzX1qIqKHDESX5DNooPBDrzNPC81M3r5Ghaq67Ls4xLWGG80WVZotDfC2WXn8cMiExWZQDVES4su0CU2augZ7r3iahapVcOQwVRCJ2M5ko8KwMieKUflKqDhUSULUQcgvwhCY5ZiiTe5JD5o9ydUE-DSN_SUjzRrDzYyrdt-3CXufszARX4KJYxeI9Zj66yH-hNUW-Xx6Mnnbusdf-l9cDcOp-LNCO2yHSG4KW7nLRrwyK9nL638QUpv-ECvyhcGsQ"
                 }
              ]
 }
