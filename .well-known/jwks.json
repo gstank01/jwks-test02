@@ -5,8 +5,8 @@
                     "e": "AQAB",
                     "use": "sig",
                     "kid": "myapp-key-3",
-                    "alg": "RS512",
-                    "n": "o9ztCvJy89w_jIUByoBGqILsNCNCbd7na_WXmvnTdtcc4OuPo7qVMKcYpWceSuJ31SB4PRLXdSxw1UMt1_wdLzX1qIqKHDESX5DNooPBDrzNPC81M3r5Ghaq67Ls4xLWGG80WVZotDfC2WXn8cMiExWZQDVES4su0CU2augZ7r3iahapVcOQwVRCJ2M5ko8KwMieKUflKqDhUSULUQcgvwhCY5ZiiTe5JD5o9ydUE-DSN_SUjzRrDzYyrdt-3CXufszARX4KJYxeI9Zj66yH-hNUW-Xx6Mnnbusdf-l9cDcOp-LNCO2yHSG4KW7nLRrwyK9nL638QUpv-ECvyhcGsQ"
+                    "alg": "RS256",
+                    "n": "51fkE7a0i9L3Wbav9YJMe8dGsK990Fsl4GVBHb32u9DhdwBVp3EVEgAhbazaKQz7Id_-DSN_SUjzRrDzYyrdt-3CXufszARX4KJYxeI9Zj66yH-hNUW-Xx6Mnnbusdf-l9cDcOp-LNCO2yHSG4KW7nLRrwyK9nL638QUpv-ECvyhcGsQ"
                 }
              ]
 }
