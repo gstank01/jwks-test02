@@ -5,8 +5,8 @@
                     "e": "AQAB",
                     "use": "sig",
                     "kid": "myapp-key-3",
-                    "alg": "RS256",
-                    "n": "w6N8gSS9XpmsOYC0Bn2zYfFaDPlvTxvIge4kh48vRWWYDkJyg9B_Le8tu5H-FfiOdIMOMpvr80LrRNlDAtkdzfcBSFpuOu2FIGwjaFB57RTgjxWZVPT_TMevvy8xtMItGvRvlAN2mdwrnBeaiPpwLZ-lqIt1I0sfpcNueifbTaPxH64cFKZRKSBvLB0YEkbDFZgW9avsoRx4Zfpugac2tuNefs9fhxFMQaYkJ1BrQCfDSRuQNzF_he2VZ9CPZTQKXTHXLCE8aVNg1hlay_ZPBGIu8kbCe9TJ1pIWsf-ArqNw4S8Y5fk4jpWHba_qky4tWOU7pbxg9QVNWmRPM67K3Q"
+                    "alg": "RS512",
+                    "n": "my30c5Tya6W0q1erpBw7vf2hhlWGoG0KrOUSCPS2O74a_fg17wOaE17IYfvO5FFlE9gnxfsDmtilGkEnd_OUCyFlpW7vqXZ3MHeo9Hei3pmdWWXdaMToIOFTkRq1X7Bdffekf6ioJh4OHTgBqdC90A2JPWMOjSlTrCApVYB-3WPZIqPMoksh0IBB3DS4U1Xeve1_UGRw5wnmN1cxh0xinHaFR7roSwnrfJ_SFmD_QFfq4L7qcYGmkNbE--eH7L7T3Z0tHfeNbXv_JMfuhgbBaIfY83hnFiDE9HxbLLrjCu_GNOZtExvDXEAT_ohWw7wPUyX-4MnKP5cj9A_VinTA0w"
                 }
              ]
 }
